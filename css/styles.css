@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+header{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 50px;
+}
+
+    header h1, h2 {
+        text-align: center;
+    }
+
+main {
+    background-color: cornsilk;
+    padding: 50px;
+}
+
+footer{
+    background-color: cornflowerblue;
+    color: white;
+    padding: 50px;
+}
+
+nav {
+   border-radius: 10px;
+}
